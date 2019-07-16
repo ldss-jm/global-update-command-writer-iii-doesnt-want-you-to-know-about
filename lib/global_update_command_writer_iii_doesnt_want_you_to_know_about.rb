@@ -1,0 +1,2 @@
+require 'global_update_command_writer_iii_doesnt_want_you_to_know_about/version'
+require 'global_update_command_writer_iii_doesnt_want_you_to_know_about/command_writer'
